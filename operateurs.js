@@ -1,5 +1,5 @@
 var x = 5;
-var y = 7;
+var y = 15;
 var z = 15;
 
 if (x === y && x  === z){
